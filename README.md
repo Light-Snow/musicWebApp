@@ -1,4 +1,4 @@
-# music web app
+# music webApp
 
 > 音乐webapp：数据抓取的是QQ音乐的接口，包括推荐、歌手列表、歌曲详情、歌曲播放等模块
 
